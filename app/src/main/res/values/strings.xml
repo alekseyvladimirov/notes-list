@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">NotesList</string>
+    <string name="note_is_read">Прочитана</string>
+    <string name="note_is_not_read">Заметка не прочитана</string>
+    <string name="collapse">Свернуть</string>
+    <string name="add_note">Добавить заметку</string>
+    <string name="exit_dialog_title">Выход</string>
+    <string name="exit_dialog_message">Вы уверены, что хотите выйти?</string>
+    <string name="exit_dialog_confirm">Да</string>
+    <string name="exit_dialog_cancel">Нет</string>
+    <string name="need_to_fill">Необходимо заполнить</string>
+    <string name="note_is_important">Важно</string>
+    <string name="note_created_at">Создана</string>
+    <string name="note_detail_title_new">Новая заметка</string>
+    <string name="note_detail_title_edit">Редактирование заметки</string>
+    <string name="note_action_save">Сохранить</string>
+    <string name="note_action_add">Добавить</string>
+    <string name="note_title_label">Заголовок</string>
+    <string name="note_text_label">Текст</string>
+    <string name="note_created_at_format">Создана: %1$s</string>
+    <string name="nav_back">Назад</string>
+    <string name="settings">Настройки</string>
+    <string name="settings_note_stack_title">Стопки заметок</string>
+    <string name="settings_stack_spacing">Расстояние между элементами</string>
+    <string name="settings_stack_max_visible">Максимум видимых</string>
+    <string name="title_too_long">Слишком длинный заголовок, нужно сократить</string>
+</resources>
